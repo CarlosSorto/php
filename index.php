@@ -9,7 +9,7 @@ Salida del comando phpinfo:
 <?php
 
     phpinfo();
-
+ 
 ?>
 </body>
 </HTML> 
